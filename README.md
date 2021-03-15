@@ -27,7 +27,7 @@ View of candidate:
 
 Comments section is dynamic, and new comment can be entered only if the user is logged in.
 
-![Image of jobbatch candidate overview](https://res.cloudinary.com/dalbjygdz/image/upload/c_scale,w_550/v1615791442/jobmatch-readmore_dmrr07.png)
+![Image of jobbatch candidate overview](https://res.cloudinary.com/dalbjygdz/image/upload/c_scale,w_500/v1615814180/newpic.png)
 
 In my cards page user can add/edit/delete cards:
 ![Image of my cards page](https://res.cloudinary.com/dalbjygdz/image/upload/c_scale,w_836/v1615800182/Screen_Shot_2021-03-15_at_11.21.05_tg5upj.png)
